@@ -27,6 +27,16 @@ At the end of the quiz, once all 20 questions are answered, the application hide
 
 Overall, the Indian Quiz App is a lightweight, educational web application that demonstrates practical use of front-end development skills including DOM manipulation, event handling, dynamic content generation, and user feedback mechanisms. It runs entirely in the browser without the need for any server-side technologies or external dependencies, making it easy to deploy on platforms like GitHub Pages. This project can be further expanded by adding features such as difficulty levels, randomized questions, user login, score tracking, and category selection, making it a flexible base for more advanced quiz applications.
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3dc616e7-b4d0-440f-983b-2700b0f9c3eb)
+
+
+
+
+
+
+
 
 
 
