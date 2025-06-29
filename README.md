@@ -31,6 +31,11 @@ Overall, the Indian Quiz App is a lightweight, educational web application that 
 
 ![Image](https://github.com/user-attachments/assets/3dc616e7-b4d0-440f-983b-2700b0f9c3eb)
 
+![Image](https://github.com/user-attachments/assets/dcdc5c2c-47b8-414b-a676-2fd12e507eba)
+
+![Image](https://github.com/user-attachments/assets/8cca2abf-878b-4093-823e-b2047c85a0c1)
+
+
 
 
 
