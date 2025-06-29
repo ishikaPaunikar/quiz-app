@@ -13,6 +13,7 @@ DURATION : 4 WEEKS
 MENTOR : NEELA SANTHOSH KUMAR
 
 #DESCRIPTION ABOUT QUIZ-APP
+
 The Indian Quiz App is a fully functional browser-based quiz application designed using core web technologies such as HTML, CSS, and JavaScript. It is a single-page application that provides an interactive and engaging way for users to test their knowledge of India’s history, culture, geography, and general facts. The project focuses on simplicity and functionality without relying on any external libraries or frameworks, making it an excellent example of how essential front-end technologies can be used to create an educational tool.
 
 The structure of the application is defined using HTML5. It contains a main container that holds the quiz interface, including a title, question display, multiple-choice options, feedback messages, a countdown timer, and a final score section. Each part of the interface is dynamically updated using JavaScript, ensuring a seamless user experience throughout the quiz.
